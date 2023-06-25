@@ -9,7 +9,6 @@ I like programming and sometimes publish projects on my GitHub.
 
 [![TheRealGabHas's Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TheRealGabHas&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-### Links
+### Link
 
 - 🖼 Website : [https://gabhas.fr](https://gabhas.fr)
-- 💰 Gambling Discord Bot : [Invite LotteryBot](https://gabhas.fr/LotteryBot)

@@ -11,7 +11,7 @@ I like programming and sometimes publish projects on my GitHub, currently focusi
 
 ### I want to learn more skills :
 - ⚙️ Low-level programming (mostly C)
-- 🛜 Deeper understanding of network (internet, phone communication, iot)
+- 🌐 Deeper understanding of network (Internet, Phone Communication, IoT)
 
 ### Links
 - 📝 Blog : [https://blog.gabhas.fr](https://blog.gabhas.fr) (available both in French and English)

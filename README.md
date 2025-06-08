@@ -1,18 +1,12 @@
-# 👋 Hello, I'm GabHas
+## 👋 Hello, I'm GabHas
 
-I like programming and sometimes publish projects on my GitHub, currently focusing on [SkyblockStats](https://github.com/TheRealGabHas/SkyblockStats). I also write articles on my [blog](https://blog.gabhas.fr).
+I like programming and sometimes publish projects on my GitHub, currently focusing on learning Ruby by working on a [file explorer](https://github.com/TheRealGabHas/FileExplorer).
 
-### I mainly program with :
-- 🐍 Python
-- 🖼 HTML, CSS, JavaScript (Front-End)
-- 🟧 mcfunction (from 1.4 to 1.12)
-
-[![TheRealGabHas's Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TheRealGabHas&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-### I want to learn more skills :
-- ⚙️ Low-level programming (mostly C)
-- 🌐 Deeper understanding of network (Internet, Phone Communication, IoT)
-
-### Links
+### Links & projects
 - 📝 Blog : [https://blog.gabhas.fr](https://blog.gabhas.fr) (available both in French and English)
 - 🖼 Website : [https://gabhas.fr](https://gabhas.fr)
+- 🎨 SkyblockStats : A Hypixel Skyblock related website. ([Repository](https://github.com/TheRealGabHas/SkyblockStats), [Website](https://sbs.gabhas.fr))
+- 🔐 Authenticator : A Minecraft plugin to provide a simple way to link a Minecraft account with a 3rd party service. ([Repository](https://github.com/TheRealGabHas/Authenticator))
+- 📶 NoiseMap Generator : A Python implementation of the Perlin noise generation algorithm wrapped in a minimal UI. ([Repository](https://github.com/TheRealGabHas/NoiseMap-Generator))
+
+[![TheRealGabHas's Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TheRealGabHas&hide=html,css&layout=compact&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

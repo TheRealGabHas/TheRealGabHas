@@ -17,7 +17,7 @@ I like programming and sometimes publish projects on my GitHub, currently focusi
 - Learn a low-level language (probably C++ or Rust)
 
 ### Programming languages
-Here is a ranking of the language I use the most in my publics repository
+Here is a ranking of the language I use the most in my public repositories
 
 ![TheRealGabHas's Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TheRealGabHas&layout=compact&langs_count=6&theme=tokyonight)
 

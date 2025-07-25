@@ -14,7 +14,7 @@ I like programming and sometimes publish projects on my GitHub, currently focusi
 
 ### Goals
 - Write and publish more articles on my blog
-- Learn a low-level language (probably C++ or Rust)
+- Learn a low-level language (probably C++)
 
 ### Programming languages
 Here is a ranking of the language I use the most in my public repositories
